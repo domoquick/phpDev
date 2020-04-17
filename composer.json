@@ -1,0 +1,12 @@
+{
+    "name": "domoquick/php-dev",
+    "description": "Different development to understand OOP",
+    "authors": [
+        {
+            "name": "Carlos PAZ DUPRIEZ",
+            "email": "carlos.paz@domoquick.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
