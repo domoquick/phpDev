@@ -8,5 +8,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^8",
+        "filp/whoops": "^2.6@dev",
+        "fzaninotto/faker": "^1.9@dev",
+        "phpstan/phpdoc-parser": "^0.4.0@dev"
+    }
 }
